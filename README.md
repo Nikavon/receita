@@ -1,2 +1,2 @@
 # receita
-atividade do curso de html do KATIE
+atividade do curso de web do KATIE
